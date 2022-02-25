@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url> </url>http://13.232.253.176:8081/repository/rama-snap/
+	      <url>http://13.232.253.176:8081/repository/rama-snap/ </url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
