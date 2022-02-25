@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url> </url>http://13.232.253.176:8081/repository/rama-rel/
+	      <url> http://13.232.253.176:8081/repository/rama-rel/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
